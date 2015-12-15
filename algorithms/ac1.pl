@@ -7,10 +7,6 @@
 % -----------------------
 % Basic framework for AC-1 Algorithm.
 %
-% Execution
-% -----------------------
-% ?-
-%
 % ---------------------------------------------
 		   	
 ac1(VARLIST, ARCLIST, NEWVARLIST) :- !,
