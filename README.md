@@ -1,26 +1,3 @@
-# swi-prolog
+## Information
 
-
-## Installation
-
-Instructions on installation at the swi-prolog website [http://swi-prolog.org]
-
-## Usage
-
-
-
-## Contributing
-
-N/A
-
-## History
-
-N/A
-
-## Credits
-
-TODO: Write credits
-
-## License
-
-TODO: Write license
+Implementation of various search algorithms and list operations in swi-prolog, all of which can be found in Sterling & Shapiro's 1998 book 'The Art of Prolog.'
